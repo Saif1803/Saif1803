@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Saif
 
 Frontend Web Developer
-<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)">
+<img align="right" width="370" height="290" src="[https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif]">
                                             
 -  I’m currently learning React JS
 -  I admire AI
